@@ -3,7 +3,7 @@
 ## Introduction
 This is a simple flutter app that is a copy of a simliar app that used to be on the app store. It essetially features a simple image of and some text. The main goal of this was to start learning the basics of flutter.
 
-## Instilation
+## Installation
 Since this flutter app is not hosted, you will have to run it locally in order to view it. In order to view you will need to:
 
 - Dowload the Flutter SDK
